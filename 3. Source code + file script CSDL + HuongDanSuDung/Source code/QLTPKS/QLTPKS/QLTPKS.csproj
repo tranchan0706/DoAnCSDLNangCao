@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BB8495BE-1446-43A7-8D2A-638EEABB896F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QLTPKS</RootNamespace>
+    <AssemblyName>QLTPKS</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.Desktop.v20.2, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v20.2, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v20.2.Core, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v20.2, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v20.2, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BUS\CHINHANH.cs" />
+    <Compile Include="BUS\CHINHANHBUS.cs" />
+    <Compile Include="BUS\DICHVU.cs" />
+    <Compile Include="BUS\DICHVUBUS.cs" />
+    <Compile Include="BUS\HOADON.cs" />
+    <Compile Include="BUS\HOADONBUS.cs" />
+    <Compile Include="BUS\HOADONDV.cs" />
+    <Compile Include="BUS\HOADONDVBUS.cs" />
+    <Compile Include="BUS\KHACHHANG.cs" />
+    <Compile Include="BUS\KHACHHANGBUS.cs" />
+    <Compile Include="BUS\LOAIPHONG.cs" />
+    <Compile Include="BUS\LOAIPHONGBUS.cs" />
+    <Compile Include="BUS\NHANVIEN.cs" />
+    <Compile Include="BUS\NHANVIENBUS.cs" />
+    <Compile Include="BUS\PHIEUTHUE.cs" />
+    <Compile Include="BUS\PHIEUTHUEBUS.cs" />
+    <Compile Include="BUS\PHONG.cs" />
+    <Compile Include="BUS\PHONGBUS.cs" />
+    <Compile Include="BUS\PHONGTB.cs" />
+    <Compile Include="BUS\PHONGTBBUS.cs" />
+    <Compile Include="BUS\PHONGTHUE.cs" />
+    <Compile Include="BUS\PHONGTHUEBUS.cs" />
+    <Compile Include="BUS\SUDUNGDV.cs" />
+    <Compile Include="BUS\SUDUNGDVBUS.cs" />
+    <Compile Include="BUS\THIETBI.cs" />
+    <Compile Include="BUS\THIETBIBUS.cs" />
+    <Compile Include="CONNECT\connect.cs" />
+    <Compile Include="GUI\DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\TRANGCHU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\TRANGCHU.Designer.cs">
+      <DependentUpon>TRANGCHU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\phieuthue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\phieuthue.Designer.cs">
+      <DependentUpon>phieuthue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\qlnhanvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\qlnhanvien.Designer.cs">
+      <DependentUpon>qlnhanvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="GUI\qlchinhnhanh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\qlchinhnhanh.Designer.cs">
+      <DependentUpon>qlchinhnhanh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\qldichvu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\qldichvu.Designer.cs">
+      <DependentUpon>qldichvu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\qlhddv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\qlhddv.Designer.cs">
+      <DependentUpon>qlhddv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\qlhoadon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\qlhoadon.Designer.cs">
+      <DependentUpon>qlhoadon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\qlkhachhang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\qlkhachhang.Designer.cs">
+      <DependentUpon>qlkhachhang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\qlloaiphong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\qlloaiphong.Designer.cs">
+      <DependentUpon>qlloaiphong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\qlphong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\qlphong.Designer.cs">
+      <DependentUpon>qlphong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\qlphongtb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\qlphongtb.Designer.cs">
+      <DependentUpon>qlphongtb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\qlphongthue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\qlphongthue.Designer.cs">
+      <DependentUpon>qlphongthue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\qlsddv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\qlsddv.Designer.cs">
+      <DependentUpon>qlsddv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\qlthietbi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\qlthietbi.Designer.cs">
+      <DependentUpon>qlthietbi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QL_TPKSDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QL_TPKSDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="GUI\DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\TRANGCHU.resx">
+      <DependentUpon>TRANGCHU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\phieuthue.resx">
+      <DependentUpon>phieuthue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\qlnhanvien.resx">
+      <DependentUpon>qlnhanvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="GUI\qlchinhnhanh.resx">
+      <DependentUpon>qlchinhnhanh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\qldichvu.resx">
+      <DependentUpon>qldichvu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\qlhddv.resx">
+      <DependentUpon>qlhddv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\qlhoadon.resx">
+      <DependentUpon>qlhoadon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\qlkhachhang.resx">
+      <DependentUpon>qlkhachhang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\qlloaiphong.resx">
+      <DependentUpon>qlloaiphong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\qlphong.resx">
+      <DependentUpon>qlphong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\qlphongtb.resx">
+      <DependentUpon>qlphongtb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\qlphongthue.resx">
+      <DependentUpon>qlphongthue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\qlsddv.resx">
+      <DependentUpon>qlsddv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\qlthietbi.resx">
+      <DependentUpon>qlthietbi.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="QL_TPKSDataSet.xsc">
+      <DependentUpon>QL_TPKSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QL_TPKSDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QL_TPKSDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QL_TPKSDataSet.xss">
+      <DependentUpon>QL_TPKSDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

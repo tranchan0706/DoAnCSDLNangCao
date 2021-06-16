@@ -1,0 +1,62 @@
+C:\Users\DELL\Desktop\QLTPKS\QLTPKS\bin\Debug\QLTPKS.exe.config
+C:\Users\DELL\Desktop\QLTPKS\QLTPKS\bin\Debug\QLTPKS.exe
+C:\Users\DELL\Desktop\QLTPKS\QLTPKS\bin\Debug\QLTPKS.pdb
+C:\Users\DELL\Desktop\QLTPKS\QLTPKS\obj\Debug\QLTPKS.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\QLTPKS\QLTPKS\obj\Debug\QLTPKS.Form1.resources
+C:\Users\DELL\Desktop\QLTPKS\QLTPKS\obj\Debug\QLTPKS.Properties.Resources.resources
+C:\Users\DELL\Desktop\QLTPKS\QLTPKS\obj\Debug\QLTPKS.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\QLTPKS\QLTPKS\obj\Debug\QLTPKS.exe
+C:\Users\DELL\Desktop\QLTPKS\QLTPKS\obj\Debug\QLTPKS.pdb
+C:\Users\DELL\Desktop\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qlloaiphong.resources
+C:\Users\DELL\Desktop\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qlphong.resources
+C:\Users\DELL\Desktop\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qlphongtb.resources
+C:\Users\DELL\Desktop\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qlthietbi.resources
+E:\HOCKY_6\CSDL-NC\DOAN_QLTPKS\QLTPKS\QLTPKS\bin\Debug\QLTPKS.exe.config
+E:\HOCKY_6\CSDL-NC\DOAN_QLTPKS\QLTPKS\QLTPKS\obj\Debug\QLTPKS.exe
+E:\HOCKY_6\CSDL-NC\DOAN_QLTPKS\QLTPKS\QLTPKS\obj\Debug\QLTPKS.pdb
+E:\HOCKY_6\CSDL-NC\DOAN_QLTPKS\QLTPKS\QLTPKS\obj\Debug\QLTPKS.csprojResolveAssemblyReference.cache
+E:\HOCKY_6\CSDL-NC\DOAN_QLTPKS\QLTPKS\QLTPKS\obj\Debug\QLTPKS.Form1.resources
+E:\HOCKY_6\CSDL-NC\DOAN_QLTPKS\QLTPKS\QLTPKS\obj\Debug\QLTPKS.phieuthue.resources
+E:\HOCKY_6\CSDL-NC\DOAN_QLTPKS\QLTPKS\QLTPKS\obj\Debug\QLTPKS.Properties.Resources.resources
+E:\HOCKY_6\CSDL-NC\DOAN_QLTPKS\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qlchinhnhanh.resources
+E:\HOCKY_6\CSDL-NC\DOAN_QLTPKS\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qldichvu.resources
+E:\HOCKY_6\CSDL-NC\DOAN_QLTPKS\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qlhddv.resources
+E:\HOCKY_6\CSDL-NC\DOAN_QLTPKS\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qlhoadon.resources
+E:\HOCKY_6\CSDL-NC\DOAN_QLTPKS\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qlkhachhang.resources
+E:\HOCKY_6\CSDL-NC\DOAN_QLTPKS\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qlloaiphong.resources
+E:\HOCKY_6\CSDL-NC\DOAN_QLTPKS\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qlphong.resources
+E:\HOCKY_6\CSDL-NC\DOAN_QLTPKS\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qlphongtb.resources
+E:\HOCKY_6\CSDL-NC\DOAN_QLTPKS\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qlphongthue.resources
+E:\HOCKY_6\CSDL-NC\DOAN_QLTPKS\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qlsddv.resources
+E:\HOCKY_6\CSDL-NC\DOAN_QLTPKS\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qlthietbi.resources
+E:\HOCKY_6\CSDL-NC\DOAN_QLTPKS\QLTPKS\QLTPKS\obj\Debug\QLTPKS.csproj.GenerateResource.Cache
+E:\HOCKY_6\CSDL-NC\DOAN_QLTPKS\QLTPKS\QLTPKS\bin\Debug\QLTPKS.exe
+E:\HOCKY_6\CSDL-NC\DOAN_QLTPKS\QLTPKS\QLTPKS\bin\Debug\QLTPKS.pdb
+E:\HOCKY_6\CSDL-NC\DOAN_QLTPKS\QLTPKS\QLTPKS\obj\Debug\QLTPKS.GUI.qlnhanvien.resources
+E:\HOCKY_6\CSDL-NC\DOAN_QLTPKS\QLTPKS\QLTPKS\obj\Debug\QLTPKS.GUI.DangNhap.resources
+C:\Users\DELL\Desktop\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\bin\Debug\QLTPKS.exe.config
+C:\Users\DELL\Desktop\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\obj\Debug\QLTPKS.exe
+C:\Users\DELL\Desktop\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\obj\Debug\QLTPKS.pdb
+E:\HOCKY_6\CSDL-NC\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\bin\Debug\QLTPKS.exe.config
+E:\HOCKY_6\CSDL-NC\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\obj\Debug\QLTPKS.exe
+E:\HOCKY_6\CSDL-NC\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\obj\Debug\QLTPKS.pdb
+E:\HOCKY_6\CSDL-NC\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\bin\Debug\QLTPKS.exe
+E:\HOCKY_6\CSDL-NC\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\bin\Debug\QLTPKS.pdb
+E:\HOCKY_6\CSDL-NC\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\obj\Debug\QLTPKS.csprojResolveAssemblyReference.cache
+E:\HOCKY_6\CSDL-NC\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\obj\Debug\QLTPKS.GUI.DangNhap.resources
+E:\HOCKY_6\CSDL-NC\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\obj\Debug\QLTPKS.Form1.resources
+E:\HOCKY_6\CSDL-NC\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\obj\Debug\QLTPKS.phieuthue.resources
+E:\HOCKY_6\CSDL-NC\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\obj\Debug\QLTPKS.GUI.qlnhanvien.resources
+E:\HOCKY_6\CSDL-NC\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\obj\Debug\QLTPKS.Properties.Resources.resources
+E:\HOCKY_6\CSDL-NC\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qlchinhnhanh.resources
+E:\HOCKY_6\CSDL-NC\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qldichvu.resources
+E:\HOCKY_6\CSDL-NC\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qlhddv.resources
+E:\HOCKY_6\CSDL-NC\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qlhoadon.resources
+E:\HOCKY_6\CSDL-NC\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qlkhachhang.resources
+E:\HOCKY_6\CSDL-NC\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qlloaiphong.resources
+E:\HOCKY_6\CSDL-NC\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qlphong.resources
+E:\HOCKY_6\CSDL-NC\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qlphongtb.resources
+E:\HOCKY_6\CSDL-NC\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qlphongthue.resources
+E:\HOCKY_6\CSDL-NC\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qlsddv.resources
+E:\HOCKY_6\CSDL-NC\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\obj\Debug\QLTPKS.qlthietbi.resources
+E:\HOCKY_6\CSDL-NC\3_QuanLyThuePhongKhachSan\3. Source code + file script CSDL + HuongDanSuDung\Source code\QLTPKS\QLTPKS\obj\Debug\QLTPKS.csproj.GenerateResource.Cache
